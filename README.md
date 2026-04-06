@@ -13,7 +13,6 @@
 
 ### **1. 專案標題與誠實聲明 (Title & Honesty Statement)**
 
-```markdown
 # aiCONCsH (Recursive Acronym)
 > **ai**CONCsH **I**ntent-based **C**ontext-aware **O**bject-oriented **N**avigation **C**onstrained **SH**ell
 
